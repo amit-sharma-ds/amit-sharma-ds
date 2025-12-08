@@ -17,59 +17,27 @@
 
 ---
 
-## 🚀 About Me  
-- 🔭 I’m building ML / AI / Generative‑AI projects and working on real‑world data‑driven solutions.  
-- 🧠 I love exploring **Machine Learning, Deep Learning, NLP, Big Data & Analytics**.  
-- 💬 Ask me about **Python, ML, Data Analytics, Big Data, AI/ML pipelines**.  
-- 📫 Reach me at: **amsharma2607@gmail.com**
-
----
-
-## 🔧 Featured Projects  
-**(Check out my repositories on GitHub for code & demos)**  
-
-- **MediFusion AI — Generative AI Voice & Vision Doctor**  
-  Medical‑AI project with image + voice processing using ML/DL + LLaMA‑based vision + TTS/STT + backend pipelines.  
-
-- **Sentiment Analysis on Social Media / Reviews**  
-  Built NLP models (LSTM / GRU / RNN) on large datasets for sentiment classification; deployed for live inference.  
-
-- **HR Analytics Dashboard for Employee Attrition Insights**  
-  ETL + Data‑analysis + Dashboard (Power BI) project giving insights on attrition patterns: age, experience, role, salary, etc.  
-
----
-
-## 🛠️ Skills & Tools  
-**Languages / Frameworks:** Python, SQL, R, C++  
-**ML / Data / AI:** Machine Learning, Deep Learning, NLP, Generative AI, Big Data (Hadoop / Spark), Pandas, NumPy, Scikit‑learn, TensorFlow, spaCy, NLTK  
-**Data & Analytics Tools:** Power BI, Excel, Data Visualization, ETL pipelines  
-**Dev / Cloud / Infrastructure:** Git, GitHub, Docker, AWS, Hugging Face, Databases (MySQL, PostgreSQL, SQLite, MongoDB, Oracle)  
-
----
-
-## 🏆 Certifications & Achievements  
-- Generative AI — Google Cloud  
-- Hackathon: π‑Day AI Hackathon — 1st Place  
-- Skillcef Synergy AI Chatbot Hackathon — 3rd Place  
-- Microsoft Swag Winner — Bug Bounty (Azure Developer Community)  
-- Tech Blogathon Winner — Azure Developer Community  
-
----
-
-## 🌐 Connect With Me  
-<p>
-  <a href="https://github.com/amit-sharma-ds" target="_blank">GitHub</a> •  
-  <a href="https://www.linkedin.com/in/amit-sharma-ds/" target="_blank">LinkedIn</a> •  
-  <a href="https://x.com/amitsharma16158" target="_blank">X (Twitter)</a> •  
-  <a href="https://www.instagram.com/codewithamit777" target="_blank">Instagram</a> •  
-  <a href="https://www.kaggle.com/dsamitsharma" target="_blank">Kaggle</a> •  
-  <a href="https://leetcode.com/u/amcoder777/" target="_blank">LeetCode</a> •  
-  <a href="https://www.hackerrank.com/profile/amsharma2607" target="_blank">HackerRank</a>
-</p>
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amit-sharma-ds&show_icons=true" />
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://github.com/amit-sharma-ds" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/amit-sharma-ds/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://x.com/amitsharma16158" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/twitter.svg" alt="X/Twitter" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/codewithamit777" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/dsamitsharma" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/kaggle.svg" alt="Kaggle" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/amcoder777/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/leetcode.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/amsharma2607" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  </a>
 </p>
