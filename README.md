@@ -29,25 +29,6 @@ I am a Data Science and AI enthusiast focused on building practical machine lear
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/amit-sharma-ds/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:amsharma2607@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.kaggle.com/dsamitsharma"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
-</p>
-
----
-
-## 💻 Coding Profiles
-
-<p align="left">
-<a href="https://leetcode.com/u/amcoder777/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
-<a href="https://www.hackerrank.com/amsharma2607"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"></a>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -73,3 +54,15 @@ I am a Data Science and AI enthusiast focused on building practical machine lear
 ## 💬 Quote
 
 > Turning data into decisions, one model at a time 🚀
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/amit-sharma-ds/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:amsharma2607@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.kaggle.com/dsamitsharma"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+<a href="https://www.hackerrank.com/amsharma2607"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"></a>
+<a href="https://leetcode.com/u/codewithamit01/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+</p>
