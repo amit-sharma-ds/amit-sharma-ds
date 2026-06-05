@@ -26,7 +26,7 @@
 <p align="left">
 <a href="https://twitter.com/amitsharma16158"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://linkedin.com/in/amit-sharma-ds/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/codewithamit777"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://instagram.com/codewithamit777"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.kaggle.com/dsamitsharma"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
 <a href="https://www.hackerrank.com/amsharma2607"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"></a>
 <a href="https://leetcode.com/u/amcoder777/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
@@ -36,10 +36,31 @@
 
 ## 🛠️ Tech Stack
 
-**AI / ML:** Python, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, OpenCV  
-**BI Tools:** Power BI, Tableau  
-**Cloud:** AWS, Docker, Git, Hugging Face  
-**Databases:** MySQL, PostgreSQL, MongoDB, SQLite, Oracle  
+### 🤖 AI / ML & Data Science
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/>
+</p>
+
+### ☁️ Cloud / DevOps
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+</p>
+
+### 🗄️ Databases
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
+</p>
 
 ---
 
@@ -47,9 +68,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amit-sharma-ds&show_icons=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=amit-sharma-ds&show_icons=true&hide_border=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-sharma-ds&layout=compact" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-sharma-ds&layout=compact&hide_border=true" height="180"/>
 
 </div>
 
@@ -69,7 +90,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=amit-sharma-ds&theme=tokyonight&no-frame=true&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=amit-sharma-ds&no-frame=true&row=1" />
 
 </div>
 
