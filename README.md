@@ -22,20 +22,11 @@ Data Science and AI enthusiast focused on solving real-world problems using mach
 
 ## 🛠️ Tech Stack
 
-### 🤖 AI / ML & Data Science
-Python, Machine Learning, Deep Learning, NLP, GenAI, RAG
-
-### 📊 Data Analysis & Visualization
-Pandas, NumPy, Matplotlib, Seaborn, Excel, Power BI
-
-### 🧠 Frameworks & Libraries
-Scikit-learn, TensorFlow, PyTorch, spaCy, NLTK, LangChain, OpenCV
-
-### ☁️ Cloud & DevOps
-AWS, Git, GitHub, Docker, Hugging Face
-
-### 🗄️ Databases
-MySQL, PostgreSQL, SQLite, MongoDB, Oracle  
+🤖 ML & Data Science: Python, Machine Learning, Deep Learning, NLP, GenAI, RAG  
+📊 Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn, Excel, Power BI  
+🧠 Frameworks & Libraries: Scikit-learn, TensorFlow, PyTorch, spaCy, NLTK, LangChain, OpenCV  
+☁️ Cloud & DevOps: AWS, Git, GitHub, Docker, Hugging Face  
+🗄️ Databases: MySQL, PostgreSQL, SQLite, MongoDB, Oracle  
 
 ---
 
