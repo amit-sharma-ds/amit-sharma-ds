@@ -7,7 +7,7 @@
 <!-- <h3 align="center">🚀 Building Intelligent Systems with AI & Data</h3> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Data+Scientist;Machine+Learning+Engineer;AI+Developer;Problem+Solver" />
+  <img src="https://komarev.com/ghpvc/?username=amit-sharma-ds&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
