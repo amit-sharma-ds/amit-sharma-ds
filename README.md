@@ -22,10 +22,20 @@ Data Science and AI enthusiast focused on solving real-world problems using mach
 
 ## 🛠️ Tech Stack
 
-- Python, C++, R, SQL, Machine Learning, Deep Learning, NLP, GenAI, RAG, Excel, Power BI  
-- NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch, LangChain  
-- AWS, Git, GitHub, Docker, Hugging Face  
-- MySQL, PostgreSQL, SQLite, MongoDB, Oracle  
+### 🤖 AI / ML & Data Science
+Python, Machine Learning, Deep Learning, NLP, GenAI, RAG
+
+### 📊 Data Analysis & Visualization
+Pandas, NumPy, Matplotlib, Seaborn, Excel, Power BI
+
+### 🧠 Frameworks & Libraries
+Scikit-learn, TensorFlow, PyTorch, spaCy, NLTK, LangChain, OpenCV
+
+### ☁️ Cloud & DevOps
+AWS, Git, GitHub, Docker, Hugging Face
+
+### 🗄️ Databases
+MySQL, PostgreSQL, SQLite, MongoDB, Oracle  
 
 ---
 
@@ -78,8 +88,8 @@ Data Science and AI enthusiast focused on solving real-world problems using mach
 
 <p align="left">
 <a href="https://linkedin.com/in/amit-sharma-ds/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:amsharma2607@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.kaggle.com/dsamitsharma"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+<a href="mailto:amsharma2607@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.hackerrank.com/amsharma2607"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"></a>
 <a href="https://leetcode.com/u/codewithamit01/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
 </p>
