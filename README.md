@@ -1,8 +1,9 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1e90ff,100:00bfff&text=Amit%20Sharma&fontColor=ffffff&fontSize=45" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1e90ff,100:00bfff&text=I%20am%20Amit%20Sharma&fontColor=ffffff&fontSize=45" />
 </p>
 
+<h3 align="center">Python • Machine Learning • AI • Data Science</h3>
 <h3 align="center">Data Scientist & AI Engineer | Building Intelligent Data-Driven Systems</h3>
 
 <p align="center">
