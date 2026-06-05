@@ -35,8 +35,7 @@ Data Science and AI enthusiast focused on solving real-world problems using mach
 | 🏅 Achievement | 📅 Year |
 |---------------|------|
 | Microsoft Swag Winner – Bug Bounty, Azure Developer Community | Jul 2025 |
-| Hackathon Raptors – Accessibility Impact Winner | Apr 2025 |
-| π-Day AI Hackathon – 1st Place | Apr 2025 |
+| Hackathon Raptors, π-Day AI Hackathon – 1st Place | Apr 2025 |
 | Tech Blogathon Winner – Azure Developer Community | Mar 2025 |
 | Data Science Student of the Year | Jan 2025 |
 | Skillcef Synergy Chatbot AI Hackathon – 3rd Place | Jan 2025 |
