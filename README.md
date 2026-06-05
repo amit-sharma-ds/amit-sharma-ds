@@ -1,7 +1,7 @@
 [![Header](https://miro.medium.com/v2/resize:fit:9000/0*seusRQCGcbB7aZ60)](https://codegrills.in)
 
 <h1 align="center">Hi 👋, I'm Amit Sharma</h1>
-<h3 align="center">Data Scientist & AI Engineer | Building AI-driven, Data-powered solutions</h3>
+<h3 align="center">Data Scientist & AI Engineer | Building Intelligent Data-Driven Systems</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=amit-sharma-ds&label=Profile%20views&color=0e75b6&style=flat" />
@@ -11,24 +11,21 @@
 
 ## 🚀 About Me
 
+I am a Data Science and AI enthusiast focused on building practical machine learning and intelligent systems.
+
 - 🎓 B.Sc. Data Science & AI | CGPA: 9.3  
 - 💼 Data Science Mentor @ TuteDude  
-- 🤖 AI / ML / NLP / LLM Enthusiast  
-- 📍 New Delhi, India  
-- 📫 amsharma2607@gmail.com  
+- 🤖 Interested in Machine Learning, NLP, and Generative AI  
+- 🔍 Focused on building real-world AI solutions  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
-### 🤖 AI / ML
-Python • TensorFlow • PyTorch • Scikit-learn • Pandas • NumPy • OpenCV
-
-### ☁️ Cloud / DevOps
-AWS • Docker • Git • Hugging Face
-
-### 🗄️ Databases
-MySQL • PostgreSQL • MongoDB • SQLite
+• Data Science: Python, C++, R, SQL, Machine Learning, Deep Learning, NLP, GenAI, RAG, Excel, Power BI  
+• Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, spaCy, NLTK, TensorFlow, PyTorch, LangChain  
+• Cloud & DevOps: AWS, Git, GitHub, Docker, Hugging Face  
+• Databases: MySQL, PostgreSQL, SQLite, MongoDB, Oracle  
 
 ---
 
@@ -36,9 +33,17 @@ MySQL • PostgreSQL • MongoDB • SQLite
 
 <p align="left">
 <a href="https://linkedin.com/in/amit-sharma-ds/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:amsharma2607@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.kaggle.com/dsamitsharma"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
-<a href="https://www.hackerrank.com/amsharma2607"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"></a>
+</p>
+
+---
+
+## 💻 Coding Profiles
+
+<p align="left">
 <a href="https://leetcode.com/u/amcoder777/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+<a href="https://www.hackerrank.com/amsharma2607"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"></a>
 </p>
 
 ---
@@ -55,7 +60,7 @@ MySQL • PostgreSQL • MongoDB • SQLite
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <div align="center">
 
