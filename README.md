@@ -1,4 +1,4 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1e90ff,100:00bfff&text=Amit%20Sharma&fontColor=ffffff&fontSize=50&desc=Data%20Scientist%20%26%20AI%20Engineer&descSize=18&descAlignY=55&fontAlignY=40)](https://github.com/amit-sharma-ds)
+[![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1e90ff,100:00bfff&text=Amit%20Sharma&fontColor=ffffff&fontSize=45&fontAlignY=40&desc=Data%20Scientist%20%26%20AI%20Engineer&descAlignY=60)](https://github.com/amit-sharma-ds)
 
 <h1 align="center">Hi 👋, I'm Amit Sharma</h1>
 <h3 align="center">Data Scientist & AI Engineer | Building Intelligent Data-Driven Systems</h3>
