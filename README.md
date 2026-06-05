@@ -41,6 +41,26 @@ I am a Data Science and AI enthusiast focused on building practical machine lear
 
 ---
 
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=amit-sharma-ds&theme=dark&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=amit-sharma-ds&theme=tokyonight&no-frame=true&row=1" />
+
+</div>
+
+---
+
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -48,12 +68,6 @@ I am a Data Science and AI enthusiast focused on building practical machine lear
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit-sharma-ds&theme=tokyo-night&hide_border=true" />
 
 </div>
-
----
-
-## 💬 Quote
-
-> Turning data into decisions, one model at a time 🚀
 
 ---
 
