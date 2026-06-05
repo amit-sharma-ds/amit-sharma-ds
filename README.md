@@ -80,7 +80,7 @@ Data Science & AI enthusiast focused on Machine Learning, NLP, and Generative AI
 # 💼 Work Experience
 
 ## Data Science Mentor | TuteDude
-📅 2025 – Present
+📅 Apr 2025 – Present
 
 - Mentoring students in Python, Machine Learning, SQL, and Data Science
 - Reviewing assignments and projects
