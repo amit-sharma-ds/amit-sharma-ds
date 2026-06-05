@@ -93,12 +93,11 @@ Data Science & AI enthusiast focused on Machine Learning, NLP, and Generative AI
 
 | Achievement | Year |
 |------------|------|
-| 🥇 π-Day AI Hackathon Winner | 2025 |
-| 🏆 Microsoft Azure Swag Winner | 2025 |
-| 🥇 Accessibility Winner – Hackathon Raptors | 2025 |
-| 🏅 Tech Blogathon Winner – Azure | 2025 |
-| 🌟 Data Science Student of the Year | 2025 |
-| 🥉 Skillcef AI Hackathon – 3rd Place | 2025 |
+| 🏆 Microsoft Azure Swag Winner - Bug Bounty | Jul 2025 |
+| 🥇 π-Day AI Hackathon Winner - By Hackthon Raptors - 1st Place | Apr 2025 |
+| 🏅 Tech Blogathon Winner – Azure | Mar 2025 |
+| 🌟 Data Science Student of the Year | Jan 2025 |
+| 🥉 Skillcef AI Hackathon – 3rd Place | Jan 2025 |
 
 ---
 
