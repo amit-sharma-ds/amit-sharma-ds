@@ -29,6 +29,16 @@ I am a Data Science and AI enthusiast focused on building practical machine lear
 
 ---
 
+## 🏆 Achievements
+
+- 🥇 Winner – AI/ML Hackathon (1st Position)  
+- 🥈 Runner-up – Accessibility Hackathon  
+- 🏅 Data Science Student of the Year  
+- 🥉 Top Performer – Skill-based AI Challenge  
+- ✍️ Blogathon Winner – Azure Developer Community  
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -51,16 +61,6 @@ I am a Data Science and AI enthusiast focused on building practical machine lear
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=amit-sharma-ds&theme=tokyonight&no-frame=true&row=1" />
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -77,6 +77,4 @@ I am a Data Science and AI enthusiast focused on building practical machine lear
 <a href="https://linkedin.com/in/amit-sharma-ds/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:amsharma2607@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.kaggle.com/dsamitsharma"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
-<a href="https://www.hackerrank.com/amsharma2607"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"></a>
-<a href="https://leetcode.com/u/codewithamit01/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
 </p>
