@@ -3,7 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1e90ff,100:00bfff&text=Hi,%20I%27m%20Amit%20Sharma&fontColor=ffffff&fontSize=45&desc=Python%20•%20Machine%20Learning%20•%20AI%20•%20Data%20Science&descAlign=50&descAlignY=65&fontAlignY=40" />
 </p>
 
-<h3 align="center">🚀 Building Intelligent Systems with AI & Data</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Building+Intelligent+Systems+with+AI+%26+Data)](https://git.io/typing-svg)
+<!-- <h3 align="center">🚀 Building Intelligent Systems with AI & Data</h3> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amit-sharma-ds&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
