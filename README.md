@@ -1,3 +1,14 @@
+<h1 align="center">Hi 👋, I'm Amit Sharma</h1>
+<h3 align="center">Data Scientist & AI Engineer | Building Intelligent Data-Driven Systems</h3>
+
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=amit-sharma-ds&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
 ## 🚀 About Me
 
 Data Science and AI enthusiast focused on solving real-world problems using machine learning, data-driven insights, and intelligent systems.
@@ -6,16 +17,6 @@ Data Science and AI enthusiast focused on solving real-world problems using mach
 - 💼 Data Science Mentor @ TuteDude  
 - 🤖 Interested in Machine Learning, NLP, and Generative AI  
 - 🧠 Strong focus on problem-solving and building practical AI solutions  
----
-
-## 🚀 About Me
-
-I am a Data Science and AI enthusiast focused on building practical machine learning and intelligent systems.
-
-- 🎓 B.Sc. Data Science & AI | CGPA: 9.3  
-- 💼 Data Science Mentor @ TuteDude  
-- 🤖 Interested in Machine Learning, NLP, and Generative AI  
-- 🔍 Focused on building real-world AI solutions  
 
 ---
 
