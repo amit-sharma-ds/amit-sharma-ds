@@ -1,7 +1,7 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:9000/0*seusRQCGcbB7aZ60)](https://codegrills.in)
 
 <h1 align="center">Hi 👋, I'm Amit Sharma</h1>
-<h3 align="center">Data Scientist & AI Engineer | Developing Smart, Data-Driven Solutions</h3>
+<h3 align="center">Data Scientist & AI Engineer | Building Smart, Data-Driven Solutions</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
@@ -15,9 +15,9 @@
 
 - 🎓 B.Sc. Data Science & AI | CGPA: 9.3  
 - 💼 Data Science Mentor @ TuteDude  
-- 🤖 AI / ML / NLP / LLMs Enthusiast  
+- 🤖 Passionate about AI, ML, NLP, LLMs  
 - 📍 New Delhi, India  
-- 📫 amsharma2607@gmail.com  
+- 📫 Email: amsharma2607@gmail.com  
 
 ---
 
@@ -47,7 +47,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/>
 </p>
 
-### ☁️ Cloud / DevOps
+### ☁️ Cloud & DevOps
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
@@ -81,16 +81,6 @@
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit-sharma-ds&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=amit-sharma-ds&no-frame=true&row=1" />
 
 </div>
 
