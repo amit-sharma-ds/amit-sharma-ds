@@ -20,22 +20,25 @@ I am a Data Science and AI enthusiast focused on building practical machine lear
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-• Data Science: Python, C++, R, SQL, Machine Learning, Deep Learning, NLP, GenAI, RAG, Excel, Power BI  
-• Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, spaCy, NLTK, TensorFlow, PyTorch, LangChain  
-• Cloud & DevOps: AWS, Git, GitHub, Docker, Hugging Face  
-• Databases: MySQL, PostgreSQL, SQLite, MongoDB, Oracle  
+Python, C++, R, SQL, Machine Learning, Deep Learning, NLP, GenAI, RAG, Excel, Power BI  
+NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch, LangChain  
+AWS, Git, GitHub, Docker, Hugging Face  
+MySQL, PostgreSQL, SQLite, MongoDB, Oracle  
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 Winner – AI/ML Hackathon (1st Position)  
-- 🥈 Runner-up – Accessibility Hackathon  
-- 🏅 Data Science Student of the Year  
-- 🥉 Top Performer – AI Challenge  
-- ✍️ Blogathon Winner – Azure Developer Community  
+| 🏅 Achievement | 📅 Year |
+|---------------|------|
+| Microsoft Swag Winner – Bug Bounty, Azure Developer Community | Jul 2025 |
+| Hackathon Raptors – Accessibility Impact Winner | Apr 2025 |
+| π-Day AI Hackathon – 1st Place | Apr 2025 |
+| Tech Blogathon Winner – Azure Developer Community | Mar 2025 |
+| Data Science Student of the Year | Jan 2025 |
+| Skillcef Synergy Chatbot AI Hackathon – 3rd Place | Jan 2025 |
 
 ---
 
