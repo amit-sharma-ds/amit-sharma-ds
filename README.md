@@ -117,7 +117,7 @@ I am **Amit Sharma**, a passionate **Data Science & AI enthusiast** focused on b
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=amit-sharma-ds&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=amit-sharma-ds&theme=dark&hide_border=true"/>
 </p>
 
 ---
