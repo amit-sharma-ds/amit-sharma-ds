@@ -1,10 +1,9 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1e90ff,100:00bfff&text=I%20am%20Amit%20Sharma&fontColor=ffffff&fontSize=45" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1e90ff,100:00bfff&text=I%20am%20Amit%20Sharma&fontColor=ffffff&fontSize=45&desc=Python%20•%20Machine%20Learning%20•%20AI%20•%20Data%20Science&descAlign=50&descAlignY=65&fontAlignY=40" />
 </p>
 
-<h3 align="center">Python • Machine Learning • AI • Data Science</h3>
-<h3 align="center">Data Scientist & AI Engineer | Building Intelligent Data-Driven Systems</h3>
+<h3 align="center">Building Intelligent Systems with AI & Data</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=amit-sharma-ds&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -14,12 +13,12 @@
 
 ## 🚀 About Me
 
-Data Science and AI enthusiast focused on solving real-world problems using machine learning, data-driven insights, and intelligent systems.
+Focused on building real-world AI systems using Machine Learning, Data Science, and Generative AI.
 
 - 🎓 B.Sc. Data Science & AI | CGPA: 9.3  
 - 💼 Data Science Mentor @ TuteDude  
-- 🤖 Machine Learning | NLP | Generative AI  
-- 🧠 Strong focus on problem-solving and applied AI  
+- 🤖 Passionate about ML, NLP, and GenAI  
+- 🧠 Strong problem-solving mindset  
 
 ---
 
@@ -83,12 +82,6 @@ Data Science and AI enthusiast focused on solving real-world problems using mach
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit-sharma-ds&theme=tokyo-night&hide_border=true"/>
 </p>
-
----
-
-## 🧠 Skills Tagline
-
-<h3 align="center">🐍 Python • 🤖 Machine Learning • 🧠 AI • ⚙️ Problem Solving</h3>
 
 ---
 
