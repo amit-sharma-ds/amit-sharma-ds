@@ -13,14 +13,11 @@
 
 # 👨‍💻 About Me
 
-I am **Amit Sharma**, a passionate **Data Science & AI enthusiast** focused on building intelligent solutions using Machine Learning, Deep Learning, NLP, and Generative AI.
+Data Science & AI enthusiast focused on Machine Learning, NLP, and Generative AI.
 
-- 🎓 B.Sc. Data Science & AI
-- 📊 CGPA: 9.3
+- 🎓 B.Sc. Data Science & AI (CGPA: 9.3)
 - 💼 Data Science Mentor @ TuteDude
-- 🤖 Interested in AI, ML, NLP & Generative AI
 - 🚀 Exploring LLMs, RAG Systems & AI Agents
-- 🧠 Strong analytical and problem-solving skills
 
 ---
 
