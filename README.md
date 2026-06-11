@@ -108,8 +108,8 @@ Data Science & AI enthusiast focused on Machine Learning, NLP, and Generative AI
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amit-sharma-ds&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-sharma-ds&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amit-sharma-ds&show_icons=true&theme=tokyonight&hide_border=false&border_color=ffffff"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-sharma-ds&layout=compact&theme=tokyonight&hide_border=false&border_color=ffffff"/>
 </p>
 
 ---
