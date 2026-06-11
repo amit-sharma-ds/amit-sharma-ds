@@ -117,11 +117,6 @@ Data Science & AI enthusiast focused on Machine Learning, NLP, and Generative AI
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amit-sharma-ds&show_icons=true&theme=tokyonight&hide_border=false"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-sharma-ds&layout=compact&theme=tokyonight&hide_border=false"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=amit-sharma-ds&theme=dark&hide_border=false"/>
 </p>
 
