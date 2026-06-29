@@ -101,6 +101,7 @@ Data Science & AI enthusiast focused on Machine Learning, NLP, and Generative AI
 
 | Achievement | Year |
 |------------|------|
+| Hackthon won - Garage Inference AI | June 2026 |
 | 🏆 Microsoft Azure Swag Winner - Bug Bounty | Jul 2025 |
 | 🥇 π-Day AI Hackathon Winner - By Hackthon Raptors - 1st Place | Apr 2025 |
 | 🏅 Tech Blogathon Winner – Azure | Mar 2025 |
