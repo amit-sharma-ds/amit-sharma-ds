@@ -91,6 +91,7 @@ Data Science & AI enthusiast focused on Machine Learning, NLP, and Generative AI
 
 - Mentoring students in Python, Machine Learning, SQL, and Data Science
 - Reviewing assignments and projects
+- Develop AI/ ML Project
 - Guiding learners in real-world applications
 - Supporting project development and problem-solving
 
