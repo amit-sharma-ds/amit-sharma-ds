@@ -175,12 +175,3 @@ Data Science & AI enthusiast focused on Machine Learning, NLP, and Generative AI
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1e90ff,100:00bfff&section=footer" />
 </p>
-
-
-
-
-<h2 align="center">🎯 AI Skills Radar</h2>
-
-<p align="center">
-  <img src="./assets/radar.svg" width="550" alt="AI Skills Radar"/>
-</p>
