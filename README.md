@@ -175,3 +175,10 @@ Data Science & AI enthusiast focused on Machine Learning, NLP, and Generative AI
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1e90ff,100:00bfff&section=footer" />
 </p>
+
+
+## 📈 3D Contribution Calendar
+
+<p align="center">
+  <img src="YOUR_3D_CALENDAR_IMAGE_URL" alt="3D Contribution Calendar"/>
+</p>
