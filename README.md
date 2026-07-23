@@ -30,36 +30,14 @@ Data Science & AI enthusiast focused on Machine Learning, NLP, and Generative AI
 
 # 🛠️ Tech Stack
 
-### 🤖 AI, ML & Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,opencv,nltk&theme=dark" />
-</p>
+### 🤖 Artificial Intelligence & Machine Learning
 
-### 📊 Data Analysis & Visualization
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib&theme=dark" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="47"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="47"/>
-</p>
-
-### 🧠 LLM / NLP / GenAI
-<p align="left">
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" height="47"/>
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" height="47"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="47"/>
-  <img src="https://img.shields.io/badge/RAG-FF4500?style=for-the-badge&logo=openai&logoColor=white" height="47"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" height="47"/>
-</p>
-
-### ☁️ Cloud & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,git,github,docker&theme=dark" />
-</p>
-
-### 🗄️ Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,oracle&theme=dark" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge&logo=readthedocs&logoColor=white)
+![GenAI](https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF4500?style=for-the-badge&logo=databricks&logoColor=white)
 
 ---
 
