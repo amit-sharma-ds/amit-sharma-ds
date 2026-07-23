@@ -179,7 +179,8 @@ Data Science & AI enthusiast focused on Machine Learning, NLP, and Generative AI
 
 
 
+<h2 align="center">🎯 AI Skills Radar</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amit-sharma-ds/amit-sharma-ds/main/assets/radar.svg"/>
+  <img src="./assets/radar.svg" width="550" alt="AI Skills Radar"/>
 </p>
