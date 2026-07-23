@@ -177,8 +177,8 @@ Data Science & AI enthusiast focused on Machine Learning, NLP, and Generative AI
 </p>
 
 
-## 📈 3D Contribution Calendar
+## 🎯 AI Skill Radar
 
 <p align="center">
-  <img src="YOUR_3D_CALENDAR_IMAGE_URL" alt="3D Contribution Calendar"/>
+  <img src="./assets/radar-chart.svg" width="500"/>
 </p>
