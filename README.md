@@ -169,8 +169,6 @@ Data Science & AI enthusiast focused on Machine Learning, NLP, and Generative AI
 <i>"Turning Data into Intelligence and Ideas into Innovation."</i>
 </p>
 
----
-
 <!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1e90ff,100:00bfff&section=footer" />
