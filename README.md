@@ -1,16 +1,16 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1e90ff,100:00bfff&text=Hi%2C%20I%20am%20Amit%20Sharma&fontColor=ffffff&fontSize=45&desc=Python%20•%20Machine%20Learning%20•%20AI%20•%20Data%20Science&descAlign=50&descAlignY=65&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:08080C,30:10132A,65:29245A,100:635BFF&text=Hi%2C%20I%20am%20Amit%20Sharma&fontColor=ffffff&fontSize=45&desc=Python%20•%20Machine%20Learning%20•%20AI%20•%20Data%20Science&descAlign=50&descAlignY=65&fontAlignY=40" />
 </p>
 
 <h3 align="center">Building Intelligent Systems with AI & Data</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Data+Scientist;Machine+Learning+Engineer;AI+Developer;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8B87FF&center=true&vCenter=true&width=600&lines=Data+Scientist;Machine+Learning+Engineer;AI+Developer;Problem+Solver" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amit-sharma-ds&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=amit-sharma-ds&label=Profile%20Views&color=6366F1&style=for-the-badge" />
 </p>
 
 ---
@@ -92,7 +92,7 @@ Apr 2025 – Present
 
 - Mentoring students in Python, Machine Learning, SQL, and Data Science
 - Reviewing assignments and projects
-- Develop AI/ ML Project
+- Develop AI/ML Project
 - Guiding learners in real-world applications
 - Supporting project development and problem-solving
 
@@ -114,8 +114,8 @@ Apr 2025 – Present
 # GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amit-sharma-ds&show_icons=true&theme=tokyonight&hide_border=false"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amit-sharma-ds&layout=compact&theme=tokyonight&hide_border=false"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amit-sharma-ds&show_icons=true&theme=tokyonight&hide_border=false&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-sharma-ds&layout=compact&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
@@ -123,7 +123,7 @@ Apr 2025 – Present
 # GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=amit-sharma-ds&theme=dark&hide_border=false"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amit-sharma-ds&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
@@ -131,7 +131,7 @@ Apr 2025 – Present
 # Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit-sharma-ds&theme=tokyo-night&hide_border=false"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit-sharma-ds&theme=tokyo-night&hide_border=false" />
 </p>
 
 ---
@@ -174,5 +174,5 @@ Apr 2025 – Present
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1e90ff,100:00bfff&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:08080C,30:10132A,65:29245A,100:635BFF&section=footer" />
 </p>
