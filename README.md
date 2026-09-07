@@ -1,16 +1,16 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0066FF,100:0047AB&text=Hi%2C%20I%20am%20Amit%20Sharma&fontColor=ffffff&fontSize=45&desc=Python%20•%20Machine%20Learning%20•%20AI%20•%20Data%20Science&descAlign=50&descAlignY=65&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:08080C,30:10132A,65:29245A,100:635BFF&text=Hi%2C%20I%20am%20Amit%20Sharma&fontColor=ffffff&fontSize=45&desc=Python%20•%20Machine%20Learning%20•%20AI%20•%20Data%20Science&descAlign=50&descAlignY=65&fontAlignY=40" />
 </p>
 
 <h3 align="center">Building Intelligent Systems with AI & Data</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0066FF&center=true&vCenter=true&width=600&lines=Data+Scientist;Machine+Learning+Engineer;AI+Developer;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=969BFF&center=true&vCenter=true&width=600&lines=Data+Scientist;Machine+Learning+Engineer;AI+Developer;Problem+Solver" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amit-sharma-ds&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=amit-sharma-ds&label=Profile%20Views&color=635BFF&style=for-the-badge" />
 </p>
 
 ---
@@ -33,11 +33,11 @@ Data Science & AI enthusiast focused on Machine Learning, NLP, and Generative AI
 ### Artificial Intelligence & Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge)
-![GenAI](https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-FF4500?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-635BFF?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-635BFF?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-635BFF?style=for-the-badge)
+![GenAI](https://img.shields.io/badge/Generative%20AI-635BFF?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-635BFF?style=for-the-badge)
 
 ---
 
@@ -45,42 +45,42 @@ Data Science & AI enthusiast focused on Machine Learning, NLP, and Generative AI
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-635BFF?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-635BFF?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-635BFF?style=for-the-badge&logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-635BFF?style=for-the-badge&logo=microsoft-excel)
 
 ---
 
 ### Frameworks & Libraries
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
-![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-635BFF?style=for-the-badge&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-635BFF?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-635BFF?style=for-the-badge&logo=pytorch)
+![OpenCV](https://img.shields.io/badge/OpenCV-635BFF?style=for-the-badge&logo=opencv)
+![NLTK](https://img.shields.io/badge/NLTK-635BFF?style=for-the-badge)
+![spaCy](https://img.shields.io/badge/spaCy-635BFF?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-635BFF?style=for-the-badge)
 
 ---
 
 ### Cloud & Tools
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-635BFF?style=for-the-badge&logo=amazonaws)
+![Git](https://img.shields.io/badge/Git-635BFF?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-635BFF?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-635BFF?style=for-the-badge&logo=docker)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-635BFF?style=for-the-badge)
 
 ---
 
 ### Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
+![MySQL](https://img.shields.io/badge/MySQL-635BFF?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-635BFF?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-635BFF?style=for-the-badge&logo=mongodb)
+![SQLite](https://img.shields.io/badge/SQLite-635BFF?style=for-the-badge&logo=sqlite)
+![Oracle](https://img.shields.io/badge/Oracle-635BFF?style=for-the-badge&logo=oracle)
 
 ---
 
@@ -141,23 +141,23 @@ Apr 2025 – Present
 <p align="center">
 
 <a href="https://linkedin.com/in/amit-sharma-ds">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-635BFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.kaggle.com/dsamitsharma">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kaggle-635BFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
 <a href="mailto:amsharma2607@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-635BFF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.hackerrank.com/amsharma2607">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+<img src="https://img.shields.io/badge/HackerRank-635BFF?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/codewithamit01">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-635BFF?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </p>
@@ -174,5 +174,5 @@ Apr 2025 – Present
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0066FF,100:0047AB&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:08080C,30:10132A,65:29245A,100:635BFF&section=footer" />
 </p>
