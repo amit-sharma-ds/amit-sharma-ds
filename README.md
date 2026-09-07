@@ -1,142 +1,178 @@
-<div align="center">
+<!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1e90ff,100:00bfff&text=Hi%2C%20I%20am%20Amit%20Sharma&fontColor=ffffff&fontSize=45&desc=Python%20•%20Machine%20Learning%20•%20AI%20•%20Data%20Science&descAlign=50&descAlignY=65&fontAlignY=40" />
+</p>
 
-<a href="https://github.com/amit-sharma-ds">
+<h3 align="center">Building Intelligent Systems with AI & Data</h3>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:08080C,30:10132A,65:29245A,100:635BFF&text=AMIT%20SHARMA&fontSize=72&fontColor=FFFFFF&fontAlignY=42&desc=AI%20%2F%20ML%20ENGINEER&descSize=17&descColor=C5C7E8&descAlignY=62&animation=fadeIn"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Data+Scientist;Machine+Learning+Engineer;AI+Developer;Problem+Solver" />
+</p>
 
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amit-sharma-ds&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
-<br>
+---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=3200&pause=1500&color=969BFF&center=true&vCenter=true&width=680&lines=Building+intelligent+systems.;Machine+Learning+%7C+AI+%7C+Data+Science.;Turning+data+into+intelligence." />
+# About Me
 
-<br><br>
+Data Science & AI enthusiast focused on Machine Learning, NLP, and Generative AI.
 
-</div>
+| Role | Details |
+|------|---------|
+| Education | B.Sc. Data Science & AI (CGPA: 9.3) |
+| Experience | 1.5 YOE [Data Science Mentor @TuteDude] |
+| Interests | LLMs, RAG Systems & AI Agents |
+| Focus | Machine Learning, NLP & Generative AI |
 
-<div align="center">
+---
 
-<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=6366F1"/>
+# Tech Stack
 
-</div>
+### Artificial Intelligence & Machine Learning
 
-<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge)
+![GenAI](https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FF4500?style=for-the-badge)
 
-## ABOUT ME
+---
 
-I build intelligent software at the intersection of **machine learning, LLMs, data science, and AI engineering**.
+### Data Analysis & Visualization
 
-My interests lie in building practical AI systems involving:
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
 
-**machine learning · NLP · generative AI · RAG · AI agents**
+---
 
-I focus on turning data and AI models into useful, real-world applications.
+### Frameworks & Libraries
 
-<br>
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
 
-<table>
-<tr>
-<td width="55%" valign="middle">
+---
 
-### PROFILE
+### Cloud & Tools
 
-**Education**  
-B.Sc. Data Science & AI — CGPA: 9.3
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge)
 
-**Experience**  
-1.5+ Years — Data Science Mentor @ TuteDude
+---
 
-**Focus**  
-Machine Learning, NLP, Generative AI & LLMs
+### Databases
 
-**Interests**  
-RAG Systems, AI Agents & Intelligent Applications
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
 
-</td>
+---
 
-<td width="45%" valign="middle">
+# Work Experience
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amit-sharma-ds&bg_color=08080C&color=969BFF&line=635BFF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+## Data Science Mentor | TuteDude
 
-</td>
-</tr>
-</table>
-
-<br>
-
-## TECH STACK
-
-**Programming & AI:** Python, Machine Learning, Deep Learning, NLP, Generative AI, RAG
-
-**Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, Excel
-
-**Frameworks & Libraries:** Scikit-Learn, TensorFlow, PyTorch, OpenCV, NLTK, spaCy, LangChain
-
-**Cloud & Developer Tools:** AWS, Git, GitHub, Docker, Hugging Face
-
-**Databases:** MySQL, PostgreSQL, MongoDB, SQLite, Oracle
-
-<br>
-
-## WORK EXPERIENCE
-
-### Data Science Mentor — TuteDude
-
-**Apr 2025 – Present**
+Apr 2025 – Present
 
 - Mentoring students in Python, Machine Learning, SQL, and Data Science
 - Reviewing assignments and projects
-- Developing AI/ML projects
+- Develop AI/ML Project
 - Guiding learners in real-world applications
 - Supporting project development and problem-solving
 
-<br>
+---
 
-## ACHIEVEMENTS
+# Achievements
 
-- **Hackathon Winner — $200** — Garage Inference AI | June 2026
-- **Microsoft Azure Swag Winner — Rank 1** — Bug Bounty | July 2025
-- **π-Day AI Hackathon Winner — $100** — Hackathon Raptors | 1st Place | April 2025
-- **Tech Blogathon Winner** — Azure | March 2025
-- **Data Science Student of the Year** | January 2025
-- **Skillcef AI Hackathon — 100 AUD** — 3rd Place | January 2025
+| Achievement | Year |
+|------------|------|
+| Hackthon won 200$ - Garage Inference AI | June 2026 |
+| Microsoft Azure Swag Winner - Bug Bounty - Rank 1 | Jul 2025 |
+| π-Day AI Hackathon Winner 100$ - By Hackthon Raptors - 1st Place | Apr 2025 |
+| Tech Blogathon Winner – Azure | Mar 2025 |
+| Data Science Student of the Year | Jan 2025 |
+| Skillcef AI Hackathon 100 AUD – 3rd Place | Jan 2025 |
 
-<br>
+---
 
-<div align="center">
+# GitHub Statistics
 
-<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=6366F1"/>
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amit-sharma-ds&show_icons=true&theme=tokyonight&hide_border=false"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amit-sharma-ds&layout=compact&theme=tokyonight&hide_border=false"/>
+</p>
 
-<br><br>
+---
 
-## CONNECT
+# GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=amit-sharma-ds&theme=dark&hide_border=false"/>
+</p>
+
+---
+
+# Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit-sharma-ds&theme=tokyo-night&hide_border=false"/>
+</p>
+
+---
+
+# Connect With Me
+
+<p align="center">
 
 <a href="https://linkedin.com/in/amit-sharma-ds">
-<img src="https://img.shields.io/badge/LinkedIn-635BFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.kaggle.com/dsamitsharma">
-<img src="https://img.shields.io/badge/Kaggle-635BFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
 <a href="mailto:amsharma2607@gmail.com">
-<img src="https://img.shields.io/badge/Email-635BFF?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.hackerrank.com/amsharma2607">
-<img src="https://img.shields.io/badge/HackerRank-635BFF?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 </a>
 
 <a href="https://leetcode.com/u/codewithamit01">
-<img src="https://img.shields.io/badge/LeetCode-635BFF?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<br><br>
+</p>
 
-### "Turning Data into Intelligence and Ideas into Innovation."
+---
 
-<br>
+# Quote
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08080C,30:10132A,65:29245A,100:635BFF&height=100&section=footer"/>
+<p align="center">
+<i>"Turning Data into Intelligence and Ideas into Innovation."</i>
+</p>
 
-</div>
+---
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1e90ff,100:00bfff&section=footer" />
+</p>
