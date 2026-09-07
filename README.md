@@ -30,57 +30,37 @@ Data Science & AI enthusiast focused on Machine Learning, NLP, and Generative AI
 
 # Tech Stack
 
+# Tech Stack
+
 ### Artificial Intelligence & Machine Learning
 
-!Python
-!Machine Learning
-!Deep Learning
-!NLP
-!GenAI
-!RAG
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,opencv" height="38"/>
+</p>
 
----
+`Machine Learning` · `Deep Learning` · `NLP` · `GenAI` · `RAG`
 
 ### Data Analysis & Visualization
 
-!Pandas
-!NumPy
-!Matplotlib
-!Seaborn
-!Power BI
-!Excel
-
----
+`Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Power BI` · `Excel`
 
 ### Frameworks & Libraries
 
-!Scikit-Learn
-!TensorFlow
-!PyTorch
-!OpenCV
-!NLTK
-!spaCy
-!LangChain
-
----
+`Scikit-Learn` · `TensorFlow` · `PyTorch` · `OpenCV` · `NLTK` · `spaCy` · `LangChain`
 
 ### Cloud & Tools
 
-!AWS
-!Git
-!GitHub
-!Docker
-!Hugging Face
-
----
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,git,github,docker,huggingface" height="38"/>
+</p>
 
 ### Databases
 
-!MySQL
-!PostgreSQL
-!MongoDB
-!SQLite
-!Oracle
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" height="38"/>
+</p>
+
+`Oracle`
 
 ---
 
