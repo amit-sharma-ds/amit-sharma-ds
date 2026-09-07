@@ -123,7 +123,7 @@ Apr 2025 – Present
 # GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=amit-sharma-ds&theme=dark&hide_border=false"/>
+  <img src="https://streak-stats.demolab.com/?user=amit-sharma-ds&background=08080C&border=29245A&stroke=29245A&ring=635BFF&fire=969BFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=969BFF&sideLabels=969BFF&dates=C5C7E8&hide_border=false"/>
 </p>
 
 ---
