@@ -87,12 +87,11 @@ Data Science & AI enthusiast focused on Machine Learning, NLP, and Generative AI
 # Work Experience
 
 ## Data Science Mentor | TuteDude
-
 Apr 2025 – Present
 
 - Mentoring students in Python, Machine Learning, SQL, and Data Science
 - Reviewing assignments and projects
-- Develop AI/ML Project
+- Develop AI/ ML Project
 - Guiding learners in real-world applications
 - Supporting project development and problem-solving
 
@@ -108,6 +107,31 @@ Apr 2025 – Present
 | Tech Blogathon Winner – Azure | Mar 2025 |
 | Data Science Student of the Year | Jan 2025 |
 | Skillcef AI Hackathon 100 AUD – 3rd Place | Jan 2025 |
+
+---
+
+# GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amit-sharma-ds&show_icons=true&theme=tokyonight&hide_border=false"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amit-sharma-ds&layout=compact&theme=tokyonight&hide_border=false"/>
+</p>
+
+---
+
+# GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=amit-sharma-ds&theme=dark&hide_border=false"/>
+</p>
+
+---
+
+# Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit-sharma-ds&theme=tokyo-night&hide_border=false"/>
+</p>
 
 ---
 
@@ -144,6 +168,8 @@ Apr 2025 – Present
 <p align="center">
 <i>"Turning Data into Intelligence and Ideas into Innovation."</i>
 </p>
+
+---
 
 <!-- FOOTER -->
 <p align="center">
