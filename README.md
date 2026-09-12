@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:08080C,30:10132A,65:29245A,100:635BFF&text=Hi%2C%20I%20am%20Amit%20Sharma&fontColor=ffffff&fontSize=45&desc=Python%20•%20Machine%20Learning%20•%20AI%20•%20Data%20Science&descAlign=50&descAlignY=65&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:08080C,30:10132A,65:29245A,100:635BFF&text=Hi%2C%20I%20am%20Amit%20Sharma&fontColor=ffffff&fontSize=45&desc=Python%20•%20Machine%20Learning%20•%20AI%20•%20Data%20Science&descAlign=50&descAlignY=65&fontAlignY=40" />
 </p>
 
 <h3 align="center">Building Intelligent Systems with AI & Data</h3>
