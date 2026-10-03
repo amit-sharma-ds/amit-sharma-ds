@@ -21,7 +21,7 @@ Data Science & AI enthusiast focused on Machine Learning, NLP, and Generative AI
 
 | Role | Details |
 |------|---------|
-| Education | B.Sc. Data Science & AI (CGPA: 9.3) |
+| Education | B.Sc. Data Science & AI (CGPA: 9.5) |
 | Experience | 1.5 YOE [Data Science Mentor @TuteDude] |
 | Interests | LLMs, RAG Systems & AI Agents |
 | Focus | Machine Learning, NLP & Generative AI |
