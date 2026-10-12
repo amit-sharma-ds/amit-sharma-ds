@@ -113,10 +113,36 @@ Apr 2025 – Present
 
 # GitHub Statistics
 
-<p align="center">
+<!-- <p align="center">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amit-sharma-ds&show_icons=true&theme=tokyonight&hide_border=false"/>
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amit-sharma-ds&layout=compact&theme=tokyonight&hide_border=false"/>
+</p> -->
+---
+
+<h2 align="center">GitHub Statistics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amit-sharma-ds&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-sharma-ds&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
 </p>
+
+---
+
+<h2 align="center">GitHub Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amit-sharma-ds&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<h2 align="center">Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit-sharma-ds&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
 
 ---
 
