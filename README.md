@@ -113,10 +113,6 @@ Apr 2025 – Present
 
 # GitHub Statistics
 
-<!-- <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amit-sharma-ds&show_icons=true&theme=tokyonight&hide_border=false"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amit-sharma-ds&layout=compact&theme=tokyonight&hide_border=false"/>
-</p> -->
 ---
 
 <h2 align="center">GitHub Statistics</h2>
@@ -156,8 +152,16 @@ Apr 2025 – Present
 
 # Contribution Graph
 
+---
+
+<h2 align="center">Contribution Graph</h2>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit-sharma-ds&theme=tokyo-night&hide_border=false"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=amit-sharma-ds&theme=tokyo-night&hide_border=true&area=true"
+    alt="Amit's GitHub Contribution Graph"
+    width="100%"
+  />
 </p>
 
 ---
