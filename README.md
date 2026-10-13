@@ -124,24 +124,6 @@ Apr 2025 – Present
 
 ---
 
-<h2 align="center">GitHub Streak</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=amit-sharma-ds&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-<h2 align="center">Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit-sharma-ds&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
----
-
 # GitHub Streak
 
 <p align="center">
