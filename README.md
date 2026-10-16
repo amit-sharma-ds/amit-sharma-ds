@@ -11,15 +11,11 @@
 
 # About Me
 
-AI/ML Engineer focused on Machine Learning, NLP, and Generative AI. I build production-ready LLM, RAG and computer vision systems, and mentor aspiring data scientists.
+AI/ML Engineer focused on Machine Learning, NLP, and Generative AI. I build production-ready LLM, RAG and computer vision systems, and have mentored aspiring data scientists.
 
-- **Current Role:** AI/ML Engineer @ ITSYBIZZ AI
-- **Mentoring:** Data Science Mentor @ TuteDude
-- **Education:** B.Sc. Data Science & AI (CGPA: 9.5)
-- **Experience:** 1.6 years
-- **Interests:** LLMs, RAG Systems & AI Agents
-- **Focus:** Machine Learning, NLP & Generative AI
-- **Location:** New Delhi, India
+- 🎓 **Education:** B.Sc. Data Science & AI (CGPA: 9.5)
+- ⏳ **Experience:** 1.6 years
+- 🔭 **Interests:** LLMs, RAG Systems & AI Agents
 
 <br/>
 
@@ -73,21 +69,27 @@ AI/ML Engineer focused on Machine Learning, NLP, and Generative AI. I build prod
 
 # Work Experience
 
-## AI/ML Engineer | ITSYBIZZ AI
-
-Present
+<table width="100%">
+  <tr>
+    <td><b>AI/ML Engineer | ITSYBIZZ AI</b></td>
+    <td align="right"><i>Sep 2026 – Present</i></td>
+  </tr>
+</table>
 
 - Building AI/ML solutions and production-ready systems
 - Working on LLM, RAG and computer vision based projects
 
-## Data Science Mentor | TuteDude
+<table width="100%">
+  <tr>
+    <td><b>Data Science Mentor | TuteDude</b></td>
+    <td align="right"><i>Apr 2025 – Sep 2026</i></td>
+  </tr>
+</table>
 
-Apr 2025 – Present
-
-- Mentoring students in Python, Machine Learning, SQL, and Data Science
-- Reviewing assignments and projects
-- Guiding learners in real-world applications
-- Supporting project development and problem-solving
+- Mentored students in Python, Machine Learning, SQL, and Data Science
+- Reviewed assignments and projects
+- Guided learners in real-world applications
+- Supported project development and problem-solving
 
 <br/>
 
