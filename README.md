@@ -13,15 +13,13 @@
 
 AI/ML Engineer focused on Machine Learning, NLP, and Generative AI. I build production-ready LLM, RAG and computer vision systems, and mentor aspiring data scientists.
 
-| Role | Details |
-|------|---------|
-| Current Role | AI/ML Engineer @ ITSYBIZZ AI |
-| Mentoring | Data Science Mentor @ TuteDude |
-| Education | B.Sc. Data Science & AI (CGPA: 9.5) |
-| Experience | 1.6 years |
-| Interests | LLMs, RAG Systems & AI Agents |
-| Focus | Machine Learning, NLP & Generative AI |
-| Location | New Delhi, India |
+- **Current Role:** AI/ML Engineer @ ITSYBIZZ AI
+- **Mentoring:** Data Science Mentor @ TuteDude
+- **Education:** B.Sc. Data Science & AI (CGPA: 9.5)
+- **Experience:** 1.6 years
+- **Interests:** LLMs, RAG Systems & AI Agents
+- **Focus:** Machine Learning, NLP & Generative AI
+- **Location:** New Delhi, India
 
 <br/>
 
@@ -95,14 +93,12 @@ Apr 2025 – Present
 
 # Achievements
 
-| Achievement | Year |
-|-------------|------|
-| Garage Inference AI Hackathon – Winner ($200) | Jun 2026 |
-| Microsoft Azure Bug Bounty – Rank 1 (Swag Winner) | Jul 2025 |
-| π-Day AI Hackathon by Hackathon Raptors – 1st Place ($100) | Apr 2025 |
-| Tech Blogathon (Azure) – Winner | Mar 2025 |
-| Data Science Student of the Year | Jan 2025 |
-| Skillcef AI Hackathon – 3rd Place (100 AUD) | Jan 2025 |
+- **Garage Inference AI Hackathon** – Winner ($200) · Jun 2026
+- **Microsoft Azure Bug Bounty** – Rank 1 (Swag Winner) · Jul 2025
+- **π-Day AI Hackathon by Hackathon Raptors** – 1st Place ($100) · Apr 2025
+- **Tech Blogathon (Azure)** – Winner · Mar 2025
+- **Data Science Student of the Year** · Jan 2025
+- **Skillcef AI Hackathon** – 3rd Place (100 AUD) · Jan 2025
 
 <br/>
 
