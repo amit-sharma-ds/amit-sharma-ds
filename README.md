@@ -6,7 +6,7 @@
 <h3 align="center">Building Intelligent Systems with AI & Data</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=969BFF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Data+Scientist;Machine+Learning+Engineer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=969BFF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Data+Scientist;Machine+Learning+Engineer;Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
