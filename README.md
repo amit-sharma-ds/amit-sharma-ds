@@ -1,3 +1,32 @@
+# Achievements
+
+<table width="100%">
+  <tr>
+    <td>🏆 <b>Garage Inference AI Hackathon</b> – Winner ($200)</td>
+    <td align="right"><i>Jun 2026</i></td>
+  </tr>
+  <tr>
+    <td>🥇 <b>Microsoft Azure Bug Bounty</b> – Rank 1 (Swag Winner)</td>
+    <td align="right"><i>Jul 2025</i></td>
+  </tr>
+  <tr>
+    <td>🥇 <b>π-Day AI Hackathon</b> by Hackathon Raptors – 1st Place ($100)</td>
+    <td align="right"><i>Apr 2025</i></td>
+  </tr>
+  <tr>
+    <td>✍️ <b>Tech Blogathon (Azure)</b> – Winner</td>
+    <td align="right"><i>Mar 2025</i></td>
+  </tr>
+  <tr>
+    <td>🎓 <b>Data Science Student of the Year</b></td>
+    <td align="right"><i>Jan 2025</i></td>
+  </tr>
+  <tr>
+    <td>🥉 <b>Skillcef AI Hackathon</b> – 3rd Place (100 AUD)</td>
+    <td align="right"><i>Jan 2025</i></td>
+  </tr>
+</table>
+
 <!-- HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:08080C,30:10132A,65:29245A,100:635BFF&text=Amit%20Sharma&fontColor=ffffff&fontSize=60&desc=AI%20%2F%20ML%20Engineer%20%40%20ITSYBIZZ%20AI&descAlign=50&descAlignY=65&fontAlignY=40" />
