@@ -1,33 +1,31 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,30:10132A,65:29245A,100:635BFF&text=Hi%2C%20I%20am%20Amit%20Sharma&fontColor=ffffff&fontSize=50&fontAlign=50&fontAlignY=40&desc=Python%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20AI%20%E2%80%A2%20Data%20Science&descSize=20&descColor=ffffff&descAlign=50&descAlignY=62" width="100%" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:08080C,30:10132A,65:29245A,100:635BFF&text=Hi%2C%20I%20am%20Amit%20Sharma&fontColor=ffffff&fontSize=45&desc=Python%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20AI%20%E2%80%A2%20Data%20Science&descAlign=50&descAlignY=65&fontAlignY=40" />
 </p>
 
-<h3 align="center">Building Intelligent Systems with AI & Data</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=969BFF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Data+Scientist;Machine+Learning+Engineer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=969BFF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Data+Scientist;Machine+Learning+Engineer;Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
 
-## About Me
+# About Me
 
 AI/ML Engineer focused on Machine Learning, NLP, and Generative AI. I build production-ready LLM, RAG and computer vision systems, and mentor aspiring data scientists.
 
-| | Details |
-|---|---|
-| **Current Role** | AI/ML Engineer @ ITSYBIZZ AI |
-| **Mentoring** | Data Science Mentor @ TuteDude |
-| **Education** | B.Sc. Data Science & AI (CGPA: 9.5) |
-| **Experience** | 1.6 years |
-| **Interests** | LLMs, RAG Systems & AI Agents |
-| **Focus** | Machine Learning, NLP & Generative AI |
-| **Location** | New Delhi, India |
+| Role | Details |
+|------|---------|
+| Current Role | AI/ML Engineer @ ITSYBIZZ AI |
+| Mentoring | Data Science Mentor @ TuteDude |
+| Education | B.Sc. Data Science & AI (CGPA: 9.5) |
+| Experience | 1.6 years |
+| Interests | LLMs, RAG Systems & AI Agents |
+| Focus | Machine Learning, NLP & Generative AI |
+| Location | New Delhi, India |
 
 ---
 
-## Tech Stack
+# Tech Stack
 
 ### Artificial Intelligence & Machine Learning
 
@@ -75,16 +73,18 @@ AI/ML Engineer focused on Machine Learning, NLP, and Generative AI. I build prod
 
 ---
 
-## Work Experience
+# Work Experience
 
-### AI/ML Engineer | ITSYBIZZ AI
-*Present*
+## AI/ML Engineer | ITSYBIZZ AI
+
+Present
 
 - Building AI/ML solutions and production-ready systems
 - Working on LLM, RAG and computer vision based projects
 
-### Data Science Mentor | TuteDude
-*Apr 2025 – Present*
+## Data Science Mentor | TuteDude
+
+Apr 2025 – Present
 
 - Mentoring students in Python, Machine Learning, SQL, and Data Science
 - Reviewing assignments and projects
@@ -93,24 +93,24 @@ AI/ML Engineer focused on Machine Learning, NLP, and Generative AI. I build prod
 
 ---
 
-## Achievements
+# Achievements
 
 | Achievement | Year |
 |-------------|------|
-| 🏆 Garage Inference AI Hackathon – Winner ($200) | Jun 2026 |
-| 🏆 Microsoft Azure Bug Bounty – Rank 1 (Swag Winner) | Jul 2025 |
-| 🥇 π-Day AI Hackathon by Hackathon Raptors – 1st Place ($100) | Apr 2025 |
-| 🏆 Tech Blogathon (Azure) – Winner | Mar 2025 |
-| 🎓 Data Science Student of the Year | Jan 2025 |
-| 🥉 Skillcef AI Hackathon – 3rd Place (100 AUD) | Jan 2025 |
+| Garage Inference AI Hackathon – Winner ($200) | Jun 2026 |
+| Microsoft Azure Bug Bounty – Rank 1 (Swag Winner) | Jul 2025 |
+| π-Day AI Hackathon by Hackathon Raptors – 1st Place ($100) | Apr 2025 |
+| Tech Blogathon (Azure) – Winner | Mar 2025 |
+| Data Science Student of the Year | Jan 2025 |
+| Skillcef AI Hackathon – 3rd Place (100 AUD) | Jan 2025 |
 
 ---
 
 <h2 align="center">GitHub Statistics</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amit-sharma-ds&show_icons=true&theme=tokyonight&hide_border=true&bg_color=08080C&title_color=969BFF&icon_color=635BFF&text_color=C5C7E8" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-sharma-ds&layout=compact&theme=tokyonight&hide_border=true&bg_color=08080C&title_color=969BFF&text_color=C5C7E8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amit-sharma-ds&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-sharma-ds&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
 </p>
 
 <h2 align="center">GitHub Streak</h2>
@@ -127,7 +127,7 @@ AI/ML Engineer focused on Machine Learning, NLP, and Generative AI. I build prod
 
 ---
 
-## Connect With Me
+# Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/amit-sharma-ds"><img src="https://img.shields.io/badge/LinkedIn-635BFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -145,5 +145,5 @@ AI/ML Engineer focused on Machine Learning, NLP, and Generative AI. I build prod
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,30:10132A,65:29245A,100:635BFF&section=footer&reversal=true" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:08080C,30:10132A,65:29245A,100:635BFF&section=footer" />
 </p>
