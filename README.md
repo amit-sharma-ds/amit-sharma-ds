@@ -6,7 +6,7 @@
 <h3 align="center">Building Intelligent Systems with AI & Data</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=969BFF&center=true&vCenter=true&width=600&lines=Data+Scientist;Machine+Learning+Engineer;AI+Developer;Problem+Solver" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=969BFF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Data+Scientist;Machine+Learning+Engineer;AI+Developer;Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,12 +17,13 @@
 
 # About Me
 
-Data Science & AI enthusiast focused on Machine Learning, NLP, and Generative AI.
+AI/ML Engineer focused on Machine Learning, NLP, and Generative AI.
 
 | Role | Details |
 |------|---------|
+| Current Role | AI/ML Engineer @ Itsy Bizz AI |
 | Education | B.Sc. Data Science & AI (CGPA: 9.5) |
-| Experience | 1.5 YOE [Data Science Mentor @TuteDude] |
+| Experience | 1.6 YOE (AI/ML Engineer @Itsy Bizz AI, Data Science Mentor @TuteDude) |
 | Interests | LLMs, RAG Systems & AI Agents |
 | Focus | Machine Learning, NLP & Generative AI |
 
@@ -86,13 +87,19 @@ Data Science & AI enthusiast focused on Machine Learning, NLP, and Generative AI
 
 # Work Experience
 
+## AI/ML Engineer | Itsy Bizz AI
+
+Present
+
+- Building AI/ML solutions and production-ready systems
+- Working on LLM, RAG and computer vision based projects
+
 ## Data Science Mentor | TuteDude
 
 Apr 2025 – Present
 
 - Mentoring students in Python, Machine Learning, SQL, and Data Science
 - Reviewing assignments and projects
-- Develop AI/ML Project
 - Guiding learners in real-world applications
 - Supporting project development and problem-solving
 
@@ -102,16 +109,12 @@ Apr 2025 – Present
 
 | Achievement | Year |
 |------------|------|
-| Hackthon won 200$ - Garage Inference AI | June 2026 |
+| Hackathon won $200 - Garage Inference AI | June 2026 |
 | Microsoft Azure Swag Winner - Bug Bounty - Rank 1 | Jul 2025 |
-| π-Day AI Hackathon Winner 100$ - By Hackthon Raptors - 1st Place | Apr 2025 |
+| π-Day AI Hackathon Winner $100 - By Hackathon Raptors - 1st Place | Apr 2025 |
 | Tech Blogathon Winner – Azure | Mar 2025 |
 | Data Science Student of the Year | Jan 2025 |
 | Skillcef AI Hackathon 100 AUD – 3rd Place | Jan 2025 |
-
----
-
-# GitHub Statistics
 
 ---
 
@@ -124,7 +127,7 @@ Apr 2025 – Present
 
 ---
 
-# GitHub Streak
+<h2 align="center">GitHub Streak</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=amit-sharma-ds&background=08080C&border=29245A&stroke=29245A&ring=635BFF&fire=969BFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=969BFF&sideLabels=969BFF&dates=C5C7E8&hide_border=false"/>
@@ -132,18 +135,10 @@ Apr 2025 – Present
 
 ---
 
-# Contribution Graph
-
----
-
 <h2 align="center">Contribution Graph</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=amit-sharma-ds&theme=tokyo-night&hide_border=true&area=true"
-    alt="Amit's GitHub Contribution Graph"
-    width="100%"
-  />
+  <img src="https://ghchart.rshah.org/635BFF/amit-sharma-ds" alt="Amit's GitHub Contribution Graph" width="100%" />
 </p>
 
 ---
