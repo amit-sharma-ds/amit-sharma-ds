@@ -6,7 +6,7 @@
 <h3 align="center">Building Intelligent Systems with AI & Data</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=969BFF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Data+Scientist;Machine+Learning+Engineer;AI+Developer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=969BFF&center=true&vCenter=true&width=600&lines=Data+Scientist;Machine+Learning+Engineer;AI+Developer;Problem+Solver" />
 </p>
 
 <p align="center">
@@ -17,13 +17,12 @@
 
 # About Me
 
-AI/ML Engineer focused on Machine Learning, NLP, and Generative AI.
+Data Science & AI enthusiast focused on Machine Learning, NLP, and Generative AI.
 
 | Role | Details |
 |------|---------|
-| Current Role | AI/ML Engineer @ Itsy Bizz AI |
 | Education | B.Sc. Data Science & AI (CGPA: 9.5) |
-| Experience | 1.6 YOE (AI/ML Engineer @Itsy Bizz AI, Data Science Mentor @TuteDude) |
+| Experience | 1.5 YOE [Data Science Mentor @TuteDude] |
 | Interests | LLMs, RAG Systems & AI Agents |
 | Focus | Machine Learning, NLP & Generative AI |
 
@@ -33,66 +32,59 @@ AI/ML Engineer focused on Machine Learning, NLP, and Generative AI.
 
 ### Artificial Intelligence & Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-635BFF?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-635BFF?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-635BFF?style=for-the-badge)
-![GenAI](https://img.shields.io/badge/Generative%20AI-635BFF?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-635BFF?style=for-the-badge)
+!Python
+!Machine Learning
+!Deep Learning
+!NLP
+!GenAI
+!RAG
 
 ---
 
 ### Data Analysis & Visualization
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-635BFF?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-635BFF?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power%20BI-635BFF?style=for-the-badge&logo=powerbi)
-![Excel](https://img.shields.io/badge/Excel-635BFF?style=for-the-badge&logo=microsoft-excel)
+!Pandas
+!NumPy
+!Matplotlib
+!Seaborn
+!Power BI
+!Excel
 
 ---
 
 ### Frameworks & Libraries
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-635BFF?style=for-the-badge&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-635BFF?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-635BFF?style=for-the-badge&logo=pytorch)
-![OpenCV](https://img.shields.io/badge/OpenCV-635BFF?style=for-the-badge&logo=opencv)
-![NLTK](https://img.shields.io/badge/NLTK-635BFF?style=for-the-badge)
-![spaCy](https://img.shields.io/badge/spaCy-635BFF?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-635BFF?style=for-the-badge)
+!Scikit-Learn
+!TensorFlow
+!PyTorch
+!OpenCV
+!NLTK
+!spaCy
+!LangChain
 
 ---
 
 ### Cloud & Tools
 
-![AWS](https://img.shields.io/badge/AWS-635BFF?style=for-the-badge&logo=amazonaws)
-![Git](https://img.shields.io/badge/Git-635BFF?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-635BFF?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-635BFF?style=for-the-badge&logo=docker)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-635BFF?style=for-the-badge)
+!AWS
+!Git
+!GitHub
+!Docker
+!Hugging Face
 
 ---
 
 ### Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-635BFF?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-635BFF?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-635BFF?style=for-the-badge&logo=mongodb)
-![SQLite](https://img.shields.io/badge/SQLite-635BFF?style=for-the-badge&logo=sqlite)
-![Oracle](https://img.shields.io/badge/Oracle-635BFF?style=for-the-badge&logo=oracle)
+!MySQL
+!PostgreSQL
+!MongoDB
+!SQLite
+!Oracle
 
 ---
 
 # Work Experience
-
-## AI/ML Engineer | Itsy Bizz AI
-
-Present
-
-- Building AI/ML solutions and production-ready systems
-- Working on LLM, RAG and computer vision based projects
 
 ## Data Science Mentor | TuteDude
 
@@ -100,6 +92,7 @@ Apr 2025 – Present
 
 - Mentoring students in Python, Machine Learning, SQL, and Data Science
 - Reviewing assignments and projects
+- Develop AI/ML Project
 - Guiding learners in real-world applications
 - Supporting project development and problem-solving
 
@@ -109,12 +102,16 @@ Apr 2025 – Present
 
 | Achievement | Year |
 |------------|------|
-| Hackathon won $200 - Garage Inference AI | June 2026 |
+| Hackthon won 200$ - Garage Inference AI | June 2026 |
 | Microsoft Azure Swag Winner - Bug Bounty - Rank 1 | Jul 2025 |
-| π-Day AI Hackathon Winner $100 - By Hackathon Raptors - 1st Place | Apr 2025 |
+| π-Day AI Hackathon Winner 100$ - By Hackthon Raptors - 1st Place | Apr 2025 |
 | Tech Blogathon Winner – Azure | Mar 2025 |
 | Data Science Student of the Year | Jan 2025 |
 | Skillcef AI Hackathon 100 AUD – 3rd Place | Jan 2025 |
+
+---
+
+# GitHub Statistics
 
 ---
 
@@ -127,7 +124,7 @@ Apr 2025 – Present
 
 ---
 
-<h2 align="center">GitHub Streak</h2>
+# GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=amit-sharma-ds&background=08080C&border=29245A&stroke=29245A&ring=635BFF&fire=969BFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=969BFF&sideLabels=969BFF&dates=C5C7E8&hide_border=false"/>
@@ -135,10 +132,18 @@ Apr 2025 – Present
 
 ---
 
+# Contribution Graph
+
+---
+
 <h2 align="center">Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/635BFF/amit-sharma-ds" alt="Amit's GitHub Contribution Graph" width="100%" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=amit-sharma-ds&theme=tokyo-night&hide_border=true&area=true"
+    alt="Amit's GitHub Contribution Graph"
+    width="100%"
+  />
 </p>
 
 ---
