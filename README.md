@@ -1,39 +1,10 @@
-# Achievements
-
-<table width="100%">
-  <tr>
-    <td>🏆 <b>Garage Inference AI Hackathon</b> – Winner ($200)</td>
-    <td align="right"><i>Jun 2026</i></td>
-  </tr>
-  <tr>
-    <td>🥇 <b>Microsoft Azure Bug Bounty</b> – Rank 1 (Swag Winner)</td>
-    <td align="right"><i>Jul 2025</i></td>
-  </tr>
-  <tr>
-    <td>🥇 <b>π-Day AI Hackathon</b> by Hackathon Raptors – 1st Place ($100)</td>
-    <td align="right"><i>Apr 2025</i></td>
-  </tr>
-  <tr>
-    <td>✍️ <b>Tech Blogathon (Azure)</b> – Winner</td>
-    <td align="right"><i>Mar 2025</i></td>
-  </tr>
-  <tr>
-    <td>🎓 <b>Data Science Student of the Year</b></td>
-    <td align="right"><i>Jan 2025</i></td>
-  </tr>
-  <tr>
-    <td>🥉 <b>Skillcef AI Hackathon</b> – 3rd Place (100 AUD)</td>
-    <td align="right"><i>Jan 2025</i></td>
-  </tr>
-</table>
-
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:08080C,30:10132A,65:29245A,100:635BFF&text=Amit%20Sharma&fontColor=ffffff&fontSize=60&desc=AI%20%2F%20ML%20Engineer%20%40%20ITSYBIZZ%20AI&descAlign=50&descAlignY=65&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:08080C,30:10132A,65:29245A,100:635BFF&text=Amit%20Sharma&fontColor=ffffff&fontSize=60&desc=AI%2FML%20Engineer%20%40%20ITSYBIZZ%20AI&descAlign=50&descAlignY=65&fontAlignY=40" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=969BFF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Building+Intelligent+Systems+with+AI+%26+Data;Data+Scientist;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=969BFF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+with+AI+%26+Data;LLMs%2C+RAG+%26+AI+Agents;Data+Scientist;Problem+Solver" alt="Typing SVG" />
 </p>
 
 <br/>
@@ -124,12 +95,32 @@ AI/ML Engineer focused on Machine Learning, NLP, and Generative AI. I build prod
 
 # Achievements
 
-- **Garage Inference AI Hackathon** – Winner ($200) · Jun 2026
-- **Microsoft Azure Bug Bounty** – Rank 1 (Swag Winner) · Jul 2025
-- **π-Day AI Hackathon by Hackathon Raptors** – 1st Place ($100) · Apr 2025
-- **Tech Blogathon (Azure)** – Winner · Mar 2025
-- **Data Science Student of the Year** · Jan 2025
-- **Skillcef AI Hackathon** – 3rd Place (100 AUD) · Jan 2025
+<table width="100%">
+  <tr>
+    <td><b>Garage Inference AI Hackathon</b> – Winner ($200)</td>
+    <td align="right"><i>Jun 2026</i></td>
+  </tr>
+  <tr>
+    <td><b>Microsoft Azure Bug Bounty</b> – Rank 1 (Swag Winner)</td>
+    <td align="right"><i>Jul 2025</i></td>
+  </tr>
+  <tr>
+    <td><b>π-Day AI Hackathon</b> by Hackathon Raptors – 1st Place ($100)</td>
+    <td align="right"><i>Apr 2025</i></td>
+  </tr>
+  <tr>
+    <td><b>Tech Blogathon (Azure)</b> – Winner</td>
+    <td align="right"><i>Mar 2025</i></td>
+  </tr>
+  <tr>
+    <td><b>Data Science Student of the Year</b></td>
+    <td align="right"><i>Jan 2025</i></td>
+  </tr>
+  <tr>
+    <td><b>Skillcef AI Hackathon</b> – 3rd Place (100 AUD)</td>
+    <td align="right"><i>Jan 2025</i></td>
+  </tr>
+</table>
 
 <br/>
 
