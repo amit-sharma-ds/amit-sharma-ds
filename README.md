@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=969BFF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Building+Intelligent+Systems+with+AI+%26+Data;Data+Scientist;Problem+Solver" alt="Typing SVG" />
 </p>
 
----
+<br/>
 
 # About Me
 
@@ -23,7 +23,7 @@ AI/ML Engineer focused on Machine Learning, NLP, and Generative AI. I build prod
 | Focus | Machine Learning, NLP & Generative AI |
 | Location | New Delhi, India |
 
----
+<br/>
 
 # Tech Stack
 
@@ -71,7 +71,7 @@ AI/ML Engineer focused on Machine Learning, NLP, and Generative AI. I build prod
 ![SQLite](https://img.shields.io/badge/SQLite-635BFF?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-635BFF?style=for-the-badge&logo=oracle&logoColor=white)
 
----
+<br/>
 
 # Work Experience
 
@@ -91,7 +91,7 @@ Apr 2025 – Present
 - Guiding learners in real-world applications
 - Supporting project development and problem-solving
 
----
+<br/>
 
 # Achievements
 
@@ -104,7 +104,7 @@ Apr 2025 – Present
 | Data Science Student of the Year | Jan 2025 |
 | Skillcef AI Hackathon – 3rd Place (100 AUD) | Jan 2025 |
 
----
+<br/>
 
 <h2 align="center">GitHub Statistics</h2>
 
@@ -125,7 +125,7 @@ Apr 2025 – Present
   <img src="https://ghchart.rshah.org/635BFF/amit-sharma-ds" alt="Amit's GitHub Contribution Graph" width="100%" />
 </p>
 
----
+<br/>
 
 # Connect With Me
 
@@ -137,7 +137,7 @@ Apr 2025 – Present
   <a href="https://leetcode.com/u/codewithamit01"><img src="https://img.shields.io/badge/LeetCode-635BFF?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 </p>
 
----
+<br/>
 
 <p align="center">
   <i>"Turning Data into Intelligence and Ideas into Innovation."</i>
