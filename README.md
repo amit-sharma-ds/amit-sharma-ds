@@ -107,8 +107,8 @@ AI/ML Engineer focused on Machine Learning, NLP, and Generative AI. I build prod
 <h2 align="center">GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amit-sharma-ds&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-sharma-ds&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amit-sharma-ds&show_icons=true&hide_border=false&bg_color=08080C&border_color=29245A&title_color=969BFF&text_color=C5C7E8&icon_color=635BFF&ring_color=635BFF" height="190" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-sharma-ds&layout=compact&hide_border=false&bg_color=08080C&border_color=29245A&title_color=969BFF&text_color=C5C7E8" height="190" alt="Top Languages" />
 </p>
 
 <h2 align="center">GitHub Streak</h2>
