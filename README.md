@@ -13,8 +13,8 @@
 
 AI/ML Engineer focused on Machine Learning, NLP, and Generative AI. I build production-ready LLM, RAG and computer vision systems, and have mentored aspiring data scientists.
 
-- 🎓 **Education:** B.Sc. Data Science & AI (CGPA: 9.5)
-- ⏳ **Experience:** 1.6 years
+- 🎓 **Education:** Data Science & AI (CGPA: 9.5)
+- ⏳ **Experience:** 1.7 years
 - 🔭 **Interests:** LLMs, RAG Systems & AI Agents
 
 <br/>
