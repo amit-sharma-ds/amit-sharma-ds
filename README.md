@@ -113,7 +113,7 @@ AI/ML Engineer focused on Machine Learning, NLP, and Generative AI. I build prod
     <td align="right"><i>Mar 2025</i></td>
   </tr>
   <tr>
-    <td><b>Data Science Student of the Year</b></td>
+    <td><b>Awarded as Data Science Student of the Year</b></td>
     <td align="right"><i>Jan 2025</i></td>
   </tr>
   <tr>
