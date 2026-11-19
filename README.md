@@ -81,7 +81,7 @@ AI/ML Engineer focused on Machine Learning, NLP, and Generative AI. I build prod
 
 <table width="100%">
   <tr>
-    <td><b>Data Science Mentor | TuteDude</b></td>
+    <td><b>Data Scientist | TuteDude</b></td>
     <td align="right"><i>Apr 2025 – Sep 2026</i></td>
   </tr>
 </table>
